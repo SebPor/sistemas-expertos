@@ -1,12 +1,15 @@
 # Sistemas Experto
 ---
 ## Indice
-1. Lenguajes Imperativos y Declarativos
-2. Mapa mental
-3. Que es un sistema experto
-4. Que es CLIPS
-5. Futuro de los sistemas expertos
-6. Ejemplo de código de CLIPS
+- [Sistemas Experto](#sistemas-experto)
+  - [Indice](#indice)
+  - [Lenguajes imperativos y Declarativos](#lenguajes-imperativos-y-declarativos)
+    - [Lenguajes Imperativos](#lenguajes-imperativos)
+    - [Lenguajes Declarativos](#lenguajes-declarativos)
+  - [Mapa Mental](#mapa-mental)
+  - [Sistemas expertos](#sistemas-expertos)
+  - [Que es CLIPS](#que-es-clips)
+  - [Ejemplo de código CLIPS](#ejemplo-de-código-clips)
 
 
 ## Lenguajes imperativos y Declarativos
@@ -53,3 +56,33 @@ Dentro de los lenguajes declarativos hay diferentes paradigams de programación:
    1. Este tipo de estructura de programación se basa en el uso de funciones mátematicas o funciones ya implementadas en el propio lenguaje para resolver problemas, esto se consigue encandendo llamadas a diferentes funciones para escribir un código *matemáticamente elegante*
 2. Programación Logica
    1. Este tipo de estructura de programación se basa en la lógica matemática. Esto se lleva a cabo utilizando lógica de predicados, recursión, interferancia lógica, etc...
+
+---
+
+## Mapa Mental
+
+## Sistemas expertos
+
+Un sistema experto es un programa que utiliza hechos y reglas para tomar decisiones o resolver problemas en un tema en especifico. Estos programas estan hechos para simular el razonamiento human en capos concretos.
+
+Los sistemas expertos se pueden utilizar en muchos ambitos diferentes, diagnosticos médicos, servicios técnicos, diseño de sistemas, etc...
+
+Un ejemplo de sistema experto es en el ambito de la medicina para asegurarnos de que un paciente ha tenido algún sintoma o la medida de los datos es absolutamente correcta.
+
+---
+
+## Que es CLIPS
+
+CLIPS es un lenguaje de programación declarativo especialmente diseñado para hacer sistemas expertos. Su nombre CLIPS viene de *C Language Integrated Production System* y fue desarrollado por la NASA en 1980.
+
+CLIPS se basa en reglas, hechos y acciones para realizar sus funciones, esta son las principales caracteristicas de CLIPS:
+1. **Reglas**: Se definen unas reglas que sirven para representar el conocimiento en el ambito concreto, cada regla tiene una condicion y una acción.
+2. **Hechos**: Se definen hechos para representar la información de la que disponemos para hacer la ejección.
+3. **Motor de inferencia**: CLIPS utiliza una motor de inferencia para utilizar las reglas y los hechos para llegar a conclusiones.
+4. **Sistema de gestion de hechos**: Se encarga de administrar los hechos y proporcionar la base de conocimiento para la ejecución.
+5. **Interfaz de usuario**: CLIPS proporciona una interfaz de usuario con la que interactuar con el sistema experto.
+6. **Capacidad de extensión**: Al estar escrito en C se pueden añadir nuevas funcionalidad o librerias que este escritas en C
+
+---
+
+## Ejemplo de código CLIPS
