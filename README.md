@@ -61,6 +61,10 @@ Dentro de los lenguajes declarativos hay diferentes paradigams de programación:
 
 ## Mapa Mental
 
+![Mapa conceptual](Captura.PNG)
+
+---
+
 ## Sistemas expertos
 
 Un sistema experto es un programa que utiliza hechos y reglas para tomar decisiones o resolver problemas en un tema en especifico. Estos programas estan hechos para simular el razonamiento human en capos concretos.
