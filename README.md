@@ -90,3 +90,5 @@ CLIPS se basa en reglas, hechos y acciones para realizar sus funciones, esta son
 ---
 
 ## Ejemplo de código CLIPS
+
+El ejemplo del código de CLIPS esta en el archivo animales.clp en el directorio raiz
